@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h2 {
+    line-height: 30px;
+    letter-spacing: 5px;
+    text-align: center;
+
+}
+
+.float-box {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    float: normal;
+}
+span {
+    color: goldenrod;
+}
+
+section {
+    background-image: url(https://i.kym-cdn.com/entries/icons/facebook/000/003/047/omg.jpg)
+    background-size: contain;
+    background-repeat: no-repeat;
+    backround-position: center;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+button:hover {
+    background-color: green;
+}
+.ordered-list-item {
+
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#main-image {
+    width: 200px;
+}
+
+#content-box {
+    height
+}
